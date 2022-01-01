@@ -12,8 +12,6 @@
     <artifactId>apm-toolkit-jboss-logmanager-activation</artifactId>
 
     <properties>
-        <maven.compiler.source>11</maven.compiler.source>
-        <maven.compiler.target>11</maven.compiler.target>
         <jboss-logmanger-version>2.1.18.Final</jboss-logmanger-version>
     </properties>
 

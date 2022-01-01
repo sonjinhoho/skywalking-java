@@ -1,0 +1,1 @@
+toolkit-jbosslogmanager=org.apache.skywalking.apm.toolkit.activation.log.jboss.logmanager.define.JBossWriteHandlerInstrumentation
